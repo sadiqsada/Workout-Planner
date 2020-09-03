@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176117193711",
+    "firebase_url": "https://workout-planner-f115f.firebaseio.com",
+    "project_id": "workout-planner-f115f",
+    "storage_bucket": "workout-planner-f115f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176117193711:android:b60f090b990da2a0a0341a",
+        "android_client_info": {
+          "package_name": "com.example.workout_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176117193711-3k1kfagjvnssf2bq8bg36hdc6v0v3gse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWs5HjuCqponHVtkyS1rUKMXmYRUHbYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176117193711-3k1kfagjvnssf2bq8bg36hdc6v0v3gse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

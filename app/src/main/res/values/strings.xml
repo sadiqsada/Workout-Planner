@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Workout-Planner</string>
+    <string name="delete_switch">Delete</string>
+    <string name="settings_button">Settings</string>
+    <string name="spinner_title">Type</string>
+    <string name="modal_title">Title</string>
+    <string name="modal_description">Description</string>
+    <string name="modal_duration">Duration (in minutes)</string>
+    <string name="modal_performed">Performed</string>
+    <string name="item_title">Title</string>
+    <string name="item_duration">10 minutes</string>
+    <string name="item_content_description">Type of Workout</string>
+    <string name="item_performed">Performed</string>
+    <string name="item_description">Description</string>
+    <string name="item_edit">Edit</string>
+    <string name="adapter_duration">%1$d minutes</string>
+    <string name="listitem_toggle_off">Show Details</string>
+    <string name="listitem_toggle_on">Hide Details</string>
+    <string name="delete_button">Delete</string>
+    <string name="sort_items_by">Sort Items By:</string>
+    <string name="sort_by_title">Title</string>
+    <string name="sort_by_duration">Duration</string>
+    <string name="sort_by_performed">Performed</string>
+    <string name="sort_order">Sort Order:</string>
+    <string name="sort_ascending">Ascending</string>
+    <string name="sort_descending">Descending</string>
+    <string-array name="workout_options">
+        <item>Cardio</item>
+        <item>Upper Body</item>
+        <item>Lower Body</item>
+    </string-array>
+</resources>
