@@ -1,2 +1,2 @@
 An android app for tracking workouts. Firebase is used to store the data. The application has add, edit, delete, and sort functionalities.
-![Workout Planner Demo](demo.webm)
+![Workout Planner Demo](demo.gif)
